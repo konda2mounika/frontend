@@ -2,4 +2,5 @@
 
 env.COMPONENT="frontend"
 env.APPTYPE="angularjs"
-angularjs()
+// angularjs()
+docker()
