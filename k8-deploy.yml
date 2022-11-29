@@ -31,7 +31,7 @@ spec:
     app: frontend
   type: LoadBalancer
   ports:
-  - name: name-of-service-port
+  - name: frontend-port
     protocol: TCP
     port: 80
     targetPort: 80
